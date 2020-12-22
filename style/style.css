@@ -1,0 +1,23 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-forms {
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.form-row {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-light {
+    background-color: rgb(108, 117, 125)!important;
+}
+
+.navbar-light .navbar-brand {
+    color: white!important;
+}
